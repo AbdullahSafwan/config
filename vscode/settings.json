@@ -1,0 +1,45 @@
+{
+  "editor.mouseWheelZoom": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontSize": 13,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "github.copilot.advanced": {},
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none",
+  "window.zoomLevel": 1,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "prisma.showPrismaDataPlatformNotification": false,
+  "terminal.integrated.env.linux": {},
+  "terminal.integrated.env.osx": {},
+  "terminal.integrated.env.windows": {},
+  "python.terminal.activateEnvironment": false,
+  "workbench.settings.applyToAllProfiles": [
+    "python.terminal.activateEnvironment"
+  ],
+  "python.envFile": "",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.fontFamily": "'FiraCode-Bold','Jetbrains Mono', 'Droid Sans Mono',  'monospace', monospace",
+  "editor.fontLigatures": false,
+  "scm.showHistoryGraph": false,
+  "serverlessIDE.cfnLint.appendRules": [],
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
