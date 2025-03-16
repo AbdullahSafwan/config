@@ -4,5 +4,5 @@
 
 `pip install undervolt`
 
-## Copy the config files to the appropritate directories
+## Copy the config files to the appropriate directories
 `etc/*`
