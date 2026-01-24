@@ -1,2 +1,6 @@
 set constantshow
 set positionlog
+include "~/.nano/json.nanorc"
+include "~/.nano/js.nanorc"
+include "~/.nano/ts.nanorc"
+set autoindent
